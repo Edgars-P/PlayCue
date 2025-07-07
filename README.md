@@ -1,5 +1,8 @@
 # PlayCue - A web-based cue player
 
+![Screenshot From 2025-07-07 23-01-30](https://github.com/user-attachments/assets/6c8d0f3a-5c5c-4e9c-bc21-ceac7e3402b4)
+
+
 This is a somewhat jank cue player that allows you to play audio files in a web browser.
 
 Heavily inspiered by https://github.com/FrancescoCeruti/linux-show-player in it's launchpad configuration. I use it a *lot* and I have a very specific usecase for it, but I can't always have my linux machine with me. So I made this web-based version that can run on any device with a web browser! ***
